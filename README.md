@@ -4,9 +4,9 @@
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
-	* Array
-	* Object
-	* Method
+	* Array - this is basically a block of data. These can contain 'strings', numbers, booleans (true/false statements), and other data types. Each data entry has a coinciding number starting from 0.
+	* Object - this is a collection of properties. Almost everything is an object in javascript. Objects always have properties, like a trombone would be an object, and it's properties would be brass, slide, bell.
+	* Method - this is basically an action for your object. Tells what the object can do. Like the trombone object could have the methods play scales and long tones
 
 
 3. Fork and clone this repo.  When you need to commit use the following commands.
